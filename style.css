@@ -1,0 +1,20 @@
+.bg-dark-navy {
+  background-color: rgb(33, 33, 82);
+}
+
+.bg-hero {
+  background-image: url('https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  min-height: 60vh;
+  opacity: 0.7;
+}
+
+.border-bottom {
+  border-color: rgb(33, 33, 82);
+  border-width: 100px;
+}
+
+.bg-building {
+  background-image: url(https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  min-height: 30vh;
+  opacity: 0.7;
+}
